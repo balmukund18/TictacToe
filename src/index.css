@@ -1,0 +1,8 @@
+/* Tailwind base styles (if using Tailwind via CDN or PostCSS, this will be replaced by the build process) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
